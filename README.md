@@ -32,4 +32,5 @@ O objetivo é **praticar layout flexível, centralização, variáveis CSS e org
 
 1. Clone o repositório:  
 ```bash
-git clone https://github.com/alexvandaluz/social-links-profile.git
+git clone [https://github.com/alexvandaluz/social-links-profile.git](https://alexvandaluz.github.io/DESAFIO-Social-links-profile-Frontend-Mentor/](https://alexvandaluz.github.io/DESAFIO-Social-links-profile-Frontend-Mentor/)
+
